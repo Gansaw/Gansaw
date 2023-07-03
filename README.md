@@ -24,11 +24,13 @@
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=CSS3&logoColor=white" />	
 	<img src="https://img.shields.io/badge/KNIME-F7DF1E?style=flat&logo=KNIME&logoColor=white" />
-<div align = "center">
+</div>
+
 
 
 ### Contact me
 
-
+<div align = "center">
   [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gansaw12@gmail.com)](mailto:gansaw12@gmail.com)
   [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:pcgame333@naver.com)](mailto:pcgame333@naver.com)
+</div>
