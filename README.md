@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Jin's&nbsp;Github!&fontAlign=50)
+
 ## K-digital 3기 훈련생 최호진의 Github 사이트입니다.
 
 ### Profile
