@@ -8,8 +8,9 @@
 + 마산가포고등학교 졸업
 
 ### Languages
-  
 
+  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gansaw12@gmail.com)](mailto:gansaw12@gmail.com)
 
 ### Contact me
 
