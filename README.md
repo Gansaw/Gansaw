@@ -10,7 +10,7 @@
 ### Languages
 
   
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gansaw12@gmail.com)](mailto:gansaw12@gmail.com)
+  [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
 ### Contact me
 
