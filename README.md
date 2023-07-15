@@ -36,5 +36,5 @@
 ### Contact me
 
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iruchoi96@gmail.com)](mailto:iruchoi96@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iruchoi333@gmail.com)](mailto:iruchoi333@gmail.com)
 
