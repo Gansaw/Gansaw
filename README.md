@@ -36,6 +36,6 @@
 ### Contact me
 
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gansaw12@gmail.com)](mailto:gansaw12@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iruchoi96@gmail.com)](mailto:iruchoi96@gmail.com)
   [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:pcgame333@naver.com)](mailto:pcgame333@naver.com)
 
