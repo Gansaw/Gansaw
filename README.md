@@ -38,5 +38,7 @@
 ### Contact me
 
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gansaw12@gmail.com)](mailto:gansaw12@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:gansaw12@gmail.com)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Tistory&logoColor=white)](https://gansaw12.tistory.com/)
+
 
