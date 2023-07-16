@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Jin's&nbsp;Github!&fontAlign=50)
+<div>
+	<img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fd1F4Vt%2FbtsnFfnAR65%2Fdf05ZJc8wmjaEa8CeCjkkk%2Fimg.png" />
+</div>
 
 ## K-digital 3기 훈련생 최호진의 Github 사이트입니다.
 
