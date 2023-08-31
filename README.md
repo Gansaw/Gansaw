@@ -2,13 +2,13 @@
 	<img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fd1F4Vt%2FbtsnFfnAR65%2Fdf05ZJc8wmjaEa8CeCjkkk%2Fimg.png" />
 </div>
 
-## K-digital 3기 훈련생 최호진의 Github 사이트입니다.
+## Welcome to Choi Hojin's Github site.
 
 ### Profile
-+ 부산대학교 K-digital 3기 훈련생
-+ 부경대학교 기술데이터공학 전공
-+ 부경대학교 시스템경영공학부
-+ 마산가포고등학교 졸업
++ Pusan National University 3rd K-digital trainee (2023)
++ Pukyong National University majoring in technical data engineering (2019)
++ Pukyong National University System Management Engineering (2015)
++ Masan Gapo High-school
 
 ### Skills
 
