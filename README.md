@@ -10,7 +10,7 @@
 + Pukyong National University System Management Engineering (2015)
 + Masan Gapo High-school
 
-### License
+### Certificate
 + Engineer Information Processing (written test)
 + Survey Analyst,Junior (written test)
 + Industrial Engineer Office Automation
