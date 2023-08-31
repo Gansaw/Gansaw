@@ -5,7 +5,7 @@
 ## Welcome to Choi Hojin's Github site.
 
 ### Introduce
-+ Hello, I'm Choi Hojin, preparing to be a Data Engineer and Data Analyst. I am using python and R when processing the work. </br> The execution program mainly uses Visual Studio Code and Colab.
+&nbsp;&nbsp; Hello! My name is Choi Hojin, preparing to be a Data Engineer and Data Analyst. I am using python and R when processing the work. </br> The execution program mainly uses Visual Studio Code and Colab.
 
 ### Profile
 + Pusan National University K-digital 3rd trainee
