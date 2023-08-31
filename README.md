@@ -4,6 +4,9 @@
 
 ## Welcome to Choi Hojin's Github site.
 
+### Introduce
++ Hello, I'm Choi Hojin, preparing to be a Data Engineer and Data Analyst. I am using python and R when processing the work. The execution program mainly uses Visual Studio Code and Colab.
+
 ### Profile
 + Pusan National University K-digital 3rd trainee
 + Major in Technical Data Engineering
@@ -25,14 +28,14 @@
 
 ### Skills
 
-<div> FRONT-END </br>
+<div> FRONT END </br>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />	
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />	
 </div>
 
-<div> BACK-END </br> 
+<div> BACK END </br> 
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />		
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" /> 
