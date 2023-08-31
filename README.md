@@ -18,6 +18,9 @@
 + ITQ OA Master
 + Word Processor Specialist Level 1
 
+### Contest
++ The 8th Busan ICT Convergence Hackathon Participate
+
 ### Skills
 
 <div> FRONT-END </br>
