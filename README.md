@@ -10,6 +10,13 @@
 + Pukyong National University System Management Engineering (2015)
 + Masan Gapo High-school
 
+### License
++ Engineer Information Processing (written test)
++ Industrial Engineer Office Automation
++ Computer Specialist in Spreadsheet & Database Level-Ⅰ
++ ITQ OA Master
++ Word Processor Specialist Level 1
+
 ### Skills
 
 <div> FRONT-END </br>
