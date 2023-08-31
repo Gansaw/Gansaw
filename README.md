@@ -10,20 +10,18 @@
 + Pukyong National University System Management Engineering (2015)
 + Masan Gapo High-school
 
-### Course
-+ Pusan National University K-digital 3rd
-+ University of Technology Sydney Data Analytics Foundations Microcredential (Pass)
-
 ### Certificate
-+ Engineer Information Processing (written test)
-+ Survey Analyst Junior (written test)
++ Engineer Information Processing (preparing practical exam)
++ Survey Analyst Junior (preparing practical exam)
 + Industrial Engineer Office Automation
 + Computer Specialist in Spreadsheet & Database Level-Ⅰ
 + ITQ OA Master
 + Word Processor Specialist Level 1
 
-### Contest
-+ The 8th Busan ICT Convergence Hackathon
+### Activity
++ Pusan National University K-digital 3rd
++ The 8th Busan ICT Convergence Hackathon (participate)
++ University of Technology Sydney Data Analytics Foundations Microcredential (Pass)
 
 ### Skills
 
