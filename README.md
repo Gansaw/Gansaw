@@ -12,7 +12,7 @@
 
 ### Certificate
 + Engineer Information Processing (written test)
-+ Survey Analyst,Junior (written test)
++ Survey Analyst Junior (written test)
 + Industrial Engineer Office Automation
 + Computer Specialist in Spreadsheet & Database Level-Ⅰ
 + ITQ OA Master
