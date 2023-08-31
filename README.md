@@ -5,10 +5,14 @@
 ## Welcome to Choi Hojin's Github site.
 
 ### Profile
-+ Pusan National University 3rd K-digital trainee (2023)
++ Pusan National University K-digital 3rd trainee (2023)
 + Pukyong National University majoring in technical data engineering (2019)
 + Pukyong National University System Management Engineering (2015)
 + Masan Gapo High-school
+
+### Course
++ Pusan National University K-digital 3rd
++ University of Technology Sydney Data Analytics Foundations Microcredential (Pass)
 
 ### Certificate
 + Engineer Information Processing (written test)
