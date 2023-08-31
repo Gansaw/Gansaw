@@ -8,7 +8,7 @@
 + Pusan National University K-digital 3rd trainee
 + Major in Technical Data Engineering
 + Pukyong National University System Management Engineering
-+ Masan Gapo High-school
++ Masan Gapo High School
 
 ### Certificate
 + Engineer Information Processing (preparing practical exam)
