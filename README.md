@@ -19,7 +19,7 @@
 + Word Processor Specialist Level 1
 
 ### Contest
-+ The 8th Busan ICT Convergence Hackathon Participate
++ The 8th Busan ICT Convergence Hackathon
 
 ### Skills
 
