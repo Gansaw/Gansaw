@@ -20,8 +20,8 @@
 
 ### Activity
 + Pusan National University K-digital 3rd
-+ The 8th Busan ICT Convergence Hackathon (participate)
-+ University of Technology Sydney Data Analytics Foundations Microcredential (Pass)
++ The 8th Busan ICT Convergence Hackathon
++ University of Technology Sydney Data Analytics Foundations Microcredential
 
 ### Skills
 
