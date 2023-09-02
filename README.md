@@ -22,7 +22,7 @@
 + Industrial Engineer Office Automation
 + Computer Specialist in Spreadsheet & Database Level-Ⅰ
 + ITQ OA Master
-+ Word Processor Specialist Level 1
++ Word Processor Specialist Level-Ⅰ
 
 ### Activity
 + Pusan National University K-digital 3rd Training Procecss
