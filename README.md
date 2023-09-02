@@ -7,7 +7,7 @@
 ### Introduce
 &nbsp;&nbsp; Hello! My name is Hojin Choi, preparing to be a Data Engineer and Data Analyst. I am using python and R when processing the work. </br> The execution program mainly uses Visual Studio Code and Colab.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gansaw&show_icons=true&theme=radical) &nbsp; &nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gansaw&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pcgame333)](https://solved.ac/pcgame333/)
 
 ### Profile
