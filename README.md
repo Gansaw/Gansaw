@@ -25,7 +25,7 @@
 + Word Processor Specialist Level 1
 
 ### Activity
-+ Pusan National University K-digital 3rd
++ Pusan National University K-digital 3rd Training Project
 + The 8th Busan ICT Convergence Hackathon
 + University of Technology Sydney Data Analytics Foundations Microcredential
 
