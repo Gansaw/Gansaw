@@ -12,7 +12,7 @@
 
 ### Profile
 + Pusan National University K-digital 3rd trainee
-+ Major in Technology Data Engineering
++ Major in Technology & Data Engineering
 + Pukyong National University System Management Engineering
 + Masan Gapo High School
 
