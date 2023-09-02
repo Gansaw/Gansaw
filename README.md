@@ -2,7 +2,7 @@
 	<img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fd1F4Vt%2FbtsnFfnAR65%2Fdf05ZJc8wmjaEa8CeCjkkk%2Fimg.png" />
 </div>
 
-## Welcome to Choi Hojin's Github site.
+## Welcome to Hojin Choi Github site.
 
 ### Introduce
 &nbsp;&nbsp; Hello! My name is Choi Hojin, preparing to be a Data Engineer and Data Analyst. I am using python and R when processing the work. </br> The execution program mainly uses Visual Studio Code and Colab.
