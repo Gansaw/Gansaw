@@ -28,7 +28,7 @@
 + Pusan National University K-digital 3rd Training Procecss
 + The 8th Busan ICT Convergence Hackathon
 + Dacon competition - Wind Speed Prediction System
-+ University of Technology Sydney Data Analytics Foundations Microcredential
++ University of Technology Sydney - Data Analytics Foundations Microcredential
 
 ### Skills
 
