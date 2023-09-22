@@ -17,8 +17,8 @@
 + Masan Gapo High School
 
 ### Certificate
-+ Engineer Information Processing (preparing practical exam)
-+ Survey Analyst Junior (preparing practical exam)
++ Engineer Information Processing (preparing)
++ Survey Analyst Junior (preparing)
 + Industrial Engineer Office Automation
 + Computer Specialist in Spreadsheet & Database Level-Ⅰ
 + ITQ OA Master
