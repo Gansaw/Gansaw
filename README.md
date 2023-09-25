@@ -45,7 +45,7 @@
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" /> 
 </div>
 
-<div> DATA ANALYST </br>
+<div> ML/DL & DA </br>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />	
 	<img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white" />	
 	<img src="https://img.shields.io/badge/KNIME-F7DF1E?style=flat&logo=KNIME&logoColor=white" />
