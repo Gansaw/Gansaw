@@ -27,7 +27,7 @@ Hello! My name is Hojin Choi, preparing to be a AI Engineer and Data Analyst. I 
 ### Activity
 + Pusan National University K-digital 3rd Training Procecss
 + The 8th Busan ICT Convergence Hackathon
-+ Dacon competition - Wind Speed Prediction System
++ Dacon Competition - Wind Speed Prediction System
 + University of Technology Sydney - Data Analytics Foundations Microcredential
 
 ### Skills
