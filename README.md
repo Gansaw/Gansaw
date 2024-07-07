@@ -17,8 +17,6 @@ Hello! My name is Hojin Choi, preparing to be a AI Engineer and Data Analyst. I 
 + Masan Gapo High School
 
 ### Certificate
-+ Engineer Information Processing (preparing)
-+ Survey Analyst Junior (preparing)
 + Industrial Engineer Office Automation
 + Computer Specialist in Spreadsheet & Database Level-Ⅰ
 + ITQ OA Master
