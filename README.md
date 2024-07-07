@@ -23,6 +23,7 @@ Hello! My name is Hojin Choi, a reseaercher of TOMS. I'm working in prognosis an
 + Word Processor Specialist Level-Ⅰ
 
 ### Activity
++ Researcher of TOMS
 + Pusan National University K-digital 3rd Training Procecss
 + The 8th Busan ICT Convergence Hackathon
 + Dacon Competition - Wind Speed Prediction System
