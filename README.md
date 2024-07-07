@@ -12,6 +12,7 @@ I'm working in KAI Prognosis and Analysis Team.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pcgame333)](https://solved.ac/pcgame333/)
 
 ### Profile
++ Researcher of TOMS Company
 + Pusan National University K-digital 3rd trainee
 + Major in Technology & Data Engineering
 + Pukyong National University System Management Engineering
@@ -24,7 +25,6 @@ I'm working in KAI Prognosis and Analysis Team.
 + Word Processor Specialist Level-Ⅰ
 
 ### Activity
-+ TOMS Researcher
 + Pusan National University K-digital 3rd Training Procecss
 + The 8th Busan ICT Convergence Hackathon
 + Dacon Competition - Wind Speed Prediction System
