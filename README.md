@@ -5,7 +5,7 @@
 ## Welcome to Hojin Choi Github site.
 
 ### Introduce
-Hello! My name is Hojin Choi, preparing to be a AI Engineer and Data Analyst. I am using python and R when processing the work. </br> The execution program mainly uses Visual Studio Code and Colab.
+Hello! My name is Hojin Choi, a reseaercher of TOMS. I'm working in prognosis and analysis team now.
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gansaw&show_icons=true&theme=dark) &nbsp; &nbsp; &nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pcgame333)](https://solved.ac/pcgame333/)
