@@ -18,12 +18,6 @@ I'm working in KAI Prognosis and Analysis Team.
 + Pukyong National University System Management Engineering
 + Masan Gapo High School
 
-### Certificate
-+ Industrial Engineer Office Automation
-+ Computer Specialist in Spreadsheet & Database Level-Ⅰ
-+ ITQ OA Master
-+ Word Processor Specialist Level-Ⅰ
-
 ### Activity
 + Pusan National University K-digital 3rd Training Procecss
 + The 8th Busan ICT Convergence Hackathon
