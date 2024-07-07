@@ -5,7 +5,7 @@
 ## Welcome to Hojin Choi Github site.
 
 ### Introduce
-Hello! My name is Hojin Choi, a reseaercher of TOMS company.
+Hello! My name is Hojin Choi, a reseaercher of TOMS company. </br>
 I'm working in KAI Prognosis and Analysis Team.
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gansaw&show_icons=true&theme=dark) &nbsp; &nbsp; &nbsp;
