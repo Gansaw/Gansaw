@@ -5,8 +5,8 @@
 ## Welcome to Hojin Choi Github site.
 
 ### Introduce
-Hello! My name is Hojin Choi, a reseaercher of TOMS company. </br>
-TOMS is a subcontractor of KAI.
+Hello! My name is Hojin Choi, a reseaercher of TOMS company. <br>
+TOMS is a subcontractor of KAI. <br>
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gansaw&show_icons=true&theme=dark) &nbsp; &nbsp; &nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pcgame333)](https://solved.ac/pcgame333/)
 
