@@ -2,10 +2,10 @@
 	<img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fd1F4Vt%2FbtsnFfnAR65%2Fdf05ZJc8wmjaEa8CeCjkkk%2Fimg.png" />
 </div>
 
-## Welcome to Ho jin Choi Github site.
+## Welcome to Hojin Choi Github site.
 
 ### Introduce
-Hello! My name is Ho jin Choi, a reseaercher of TOMS company. <br><br>
+Hello! My name is Hojin Choi, a reseaercher of TOMS company. <br><br>
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gansaw&show_icons=true&theme=dark) &nbsp; &nbsp; &nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pcgame333)](https://solved.ac/pcgame333/)
 
