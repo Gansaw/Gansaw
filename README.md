@@ -43,9 +43,7 @@ Hello! My name is Hojin Choi, a reseaercher of TOMS company. <br><br>
 	<img src="https://img.shields.io/badge/COLAB-F7DF1E?style=flat&logo=COLAB&logoColor=white" />
 </div>
 
-<div> TOOLS </br>
-	<img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
-	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
+<div> TOOLS </br>	
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
 </div>
 
