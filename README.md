@@ -6,7 +6,6 @@
 
 ### Introduce
 Hello! My name is Hojin Choi, a reseaercher of TOMS company. <br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pcgame333)](https://solved.ac/pcgame333/)
 
 ### Profile
 + Researcher of TOMS Company
