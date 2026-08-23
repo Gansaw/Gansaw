@@ -29,9 +29,7 @@ I'm passionate about uncovering meaningful patterns in data and turning them int
 <div>
 	Machine Learning & Deep Learning </br>
 	<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
-	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
-	<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />
+	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />	
 </div>
 <div>
 	Reinforcement Learning </br>
