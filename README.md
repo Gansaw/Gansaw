@@ -20,10 +20,10 @@ I'm passionate about uncovering meaningful patterns in data and turning them int
 ### Main Skills
 <div>
 	Languages & Data Analysis </br>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" />	
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />	
 	<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" />
 	<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white" />
+	<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" />	
 </div>
 <div>
 	Machine Learning & Deep Learning </br>
