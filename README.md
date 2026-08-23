@@ -13,7 +13,6 @@ Hello! My name is Hojin Choi, a reseaercher of TOMS company. <br><br>
 ### Activity
 + Pusan National University K-digital 3rd Training Procecss
 + The 8th Busan ICT Convergence Hackathon
-+ Dacon Competition - Wind Speed Prediction System
 + University of Technology Sydney - Data Analytics Foundations Microcredential
 
 ### Skills
