@@ -40,9 +40,7 @@ I'm passionate about uncovering meaningful patterns in data and turning them int
 </div>
 <div>
 	Tools & Platforms </br>
-	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
-	<img src="https://img.shields.io/badge/KNIME-FFD23F?style=flat&logo=KNIME&logoColor=black" />
-	<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />		
 </div>
 
 ### Contact me
